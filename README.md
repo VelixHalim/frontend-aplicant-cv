@@ -6,6 +6,9 @@ link to website: https://secret-bastion-59604.herokuapp.com
 
 not working for backend
 
+screenshot:
+image.png
+
 
 # Getting Started with Create React App
 
